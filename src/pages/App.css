@@ -1,0 +1,88 @@
+.custom-navbar {
+  background: linear-gradient(to right, #4facfe, #56d7de);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .bg-body-tertiary {
+    background-image: linear-gradient(120deg, #ff6b6b, #6078ea);
+    margin: 30px;
+  }
+
+  .custom-shadow {
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5); 
+  }
+  
+  .rounded-lg {
+    border-radius: 20px; /* Increased border radius for a more rounded appearance */
+  }
+
+  
+  .font-weight-bold {
+    font-weight: bold; 
+  }
+  
+  .text-muted {
+    color: #6c757d; 
+  }
+  
+  .btn-danger {
+    background-color: #dc3545; 
+    border-color: #df3131; 
+  }
+  
+  .btn-danger:hover {
+    background-color: #ff001e; 
+    border-color: #000000; 
+    color: #000000;
+  }
+  
+  .custom-modal {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  }
+  
+  .custom-modal .modal-content {
+    border-radius: 10px; /* Rounded corners for the modal */
+  }
+  
+  .custom-modal .modal-header {
+    background-color: #f0f0f0; /* Light gray background for the header */
+    border-bottom: none; /* Remove bottom border */
+    border-radius: 10px 10px 0 0; /* Rounded corners for top */
+  }
+  
+  .custom-modal .modal-title {
+    color: #333; /* Dark text color for the title */
+  }
+  
+  .custom-modal .modal-body {
+    padding: 20px; /* Add padding to the body */
+    background-color: #fff; /* White background for the body */
+  }
+  
+  .custom-modal .modal-footer {
+    background-color: #f0f0f0; /* Light gray background for the footer */
+    border-top: none; /* Remove top border */
+    border-radius: 0 0 10px 10px; /* Rounded corners for bottom */
+  }
+  
+  .custom-modal .modal-footer .btn {
+    color: #fff; /* White text color for buttons */
+    background-color: #007bff; /* Blue background for buttons */
+    border-radius: 5px; /* Rounded corners for buttons */
+  }
+  
+  .custom-modal .modal-footer .btn:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
+  .row{
+    margin-right: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+  }
+
+
+
+ 
+  
